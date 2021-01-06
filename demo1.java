@@ -2,6 +2,6 @@ package amit;
 
 public class demo1 {
 public static void main(String[] args) {
-	System.out.println("thikitive fresher");
+	System.out.println("thikitive fresher jsjj");
 }
 }
